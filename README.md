@@ -8,4 +8,4 @@ In order to run the script, please follow these directions:
 
 ## Output file
 
-The tidy_data.txt file is saved in the working directory. Please, see Codebook for description of this file content.
+The tidy_data.txt file is saved in the working directory. Please, see the codebook for description of the file content.
